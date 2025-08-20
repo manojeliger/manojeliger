@@ -1,5 +1,12 @@
-# About Me:
+Hi :wave: I'm Manoj 
+------------------------------------------------------------------------------------------------------------------------
 Engineering Student in AIML
+[![](https://visitcount.itsvg.in/api?id=manojeliger&icon=0&color=0)](https://visitcount.itsvg.in)
+
+- 🌱 I’m currently learning *Artificial Intelligence, Machine Learning, and System Design*        
+- 📫 Reach out to me at: eligermanoj@gmail.com  
+- ⚡ I believe in growing 1% every day to achieve extraordinary results
+
 
 
 # Socials:
@@ -10,8 +17,5 @@ Engineering Student in AIML
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manojeliger&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=manojeliger&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manojeliger&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=manojeliger&icon=0&color=0)](https://visitcount.itsvg.in)
 
